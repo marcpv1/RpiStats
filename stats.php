@@ -164,13 +164,6 @@ foreach($output3 as $out3){
 echo $out3;
 }
 
-
-//$pReboot=$_POST[botoReboot];
-//if ($pReboot=="REINICIAR RASPBERRY")
-//{
-//	$ret=system('sudo reboot',$ret_val);
-//}
-
 ?>
 
 </p>
